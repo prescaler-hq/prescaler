@@ -1,0 +1,6 @@
+
+
+# kontxt — ephemeral files (MD files are safe to commit)
+.kontxt/*.db
+.kontxt/*.pid
+.kontxt/*.sock
