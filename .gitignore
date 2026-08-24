@@ -4,3 +4,4 @@
 .kontxt/*.db
 .kontxt/*.pid
 .kontxt/*.sock
+.vscode/extensions.json
