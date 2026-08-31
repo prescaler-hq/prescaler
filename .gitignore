@@ -5,3 +5,6 @@
 .kontxt/*.pid
 .kontxt/*.sock
 .vscode/extensions.json
+
+# Local-only repository process notes; never publish these files.
+.local/
